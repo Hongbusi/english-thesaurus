@@ -9,3 +9,5 @@ interview
 guide
 currying
 compose
+double
+square
