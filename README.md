@@ -7,3 +7,4 @@ strict
 polyfill
 interview
 guide
+currying
