@@ -8,3 +8,4 @@ polyfill
 interview
 guide
 currying
+compose
