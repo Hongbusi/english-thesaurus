@@ -21,3 +21,10 @@ expected
 compile
 internal
 modules
+configurable
+enumerable
+writable
+descriptor
+define
+property
+instance
