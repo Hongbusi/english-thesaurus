@@ -28,3 +28,14 @@ descriptor
 define
 property
 instance
+shallow
+readonly
+track
+scheduler
+effect
+mutable
+cleanup
+bucket
+runner
+enum
+shared
