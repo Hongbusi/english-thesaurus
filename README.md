@@ -67,3 +67,4 @@ total
 suites
 snapshots
 trim
+traverse
