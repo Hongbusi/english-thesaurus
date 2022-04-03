@@ -69,3 +69,5 @@ snapshots
 trim
 traverse
 generate
+signature
+cache
