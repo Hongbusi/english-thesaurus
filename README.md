@@ -68,3 +68,4 @@ suites
 snapshots
 trim
 traverse
+generate
