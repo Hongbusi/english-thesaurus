@@ -66,3 +66,4 @@ failed
 total
 suites
 snapshots
+trim
