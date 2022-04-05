@@ -73,3 +73,9 @@ signature
 cache
 monorepo
 weak
+reflect
+trap
+receiver
+ordinary
+exotic
+
