@@ -72,3 +72,4 @@ generate
 signature
 cache
 monorepo
+weak
