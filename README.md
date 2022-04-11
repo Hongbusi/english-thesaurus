@@ -80,3 +80,9 @@ ordinary
 exotic
 challenges
 watermark
+scale
+zoom
+triangle
+step
+model
+formatting
